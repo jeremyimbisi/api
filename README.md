@@ -7,7 +7,7 @@
 This is a group acticity on building API"s by python 
 
 ## Project set-up & instructions
-git clone https://github.com/jeremyimbisi/clickmatchgame.git
+git clone https://github.com/jeremyimbisi/api
 git init
 git add<All>
 git commit -m "initial commit"
